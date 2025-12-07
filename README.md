@@ -38,3 +38,16 @@ Primeiro curso dentro da carreira.
 - Por trás de cada um destes componentes, existem pessoas com expertises específicas trabalhando.
 - Estas pessoas compõem um time bem organizado e trabalham numa esteira de desenvolvimento integrado.
 - É através deste fluxo de trabalho, que os componentes são desenvolvidos para formar os softwares.
+
+### 1.4. Pensando de Modo Computacional
+- Pensar de modo computacional significa resolver problemas de forma lógica e com um passo a passo.
+- Por meio deste passo a passo, instruímos o computador a executar tarefas que resolvem problemas.
+- Utilizamos esta abordagem em diversas áreas de nossa vida, como montar um móvel, por exemplo.
+- O ciclo de funcionamento de um sistema web consiste em entrada, processamento e saída.
+- Precisamos entender o problema, organizar os passos e  prever os diferentes caminhos da solução.
+- Ter este entendimento é fundamental para conseguirmos saber o que o nosso cliente realmente quer.
+- Além da programação, "pensar computacionalmente" é competência-chave em muitas áreas e setores.
+- Na medicina, na arquitetura ou mesmo no delivery, o problema é sempre decomposto em passos.
+- Ao decompor um problema, conseguimos reconhecer os padrões e abstrair tudo o que é relevante.
+- A partir desta decomposição, reconhecimento e abstração, criamos um fluxo de execução da solução.
+- O pensamento computacional ajuda na entrega de soluções organizadas e da melhor maneira possível.
