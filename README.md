@@ -51,3 +51,14 @@ Primeiro curso dentro da carreira.
 - Ao decompor um problema, conseguimos reconhecer os padrões e abstrair tudo o que é relevante.
 - A partir desta decomposição, reconhecimento e abstração, criamos um fluxo de execução da solução.
 - O pensamento computacional ajuda na entrega de soluções organizadas e da melhor maneira possível.
+
+## 2. Explorando o Pensamento Computacional
+
+### 2.1. Decompondo Problemas
+- As demandas surgem de maneira bruta e sem muita clareza, misturando múltiplas questões e perspectivas.
+- Decompor estas demandas em problemas menores simplifica a compreensão e melhora a comunicação.
+- Simplificando a comunicação, o trabalho fica bem dividido e melhor coordenado para criar a solução.
+- A solução criada pode ser dividida em tarefas menores, e as tarefas podem ser distribuídas em dias.
+- A distribuição permite a criação de um cronograma com metas, prioridades e horários disponíveis.
+- Cada funcionalidade dentro da computação pode ser igualmente quebrada e executada em tarefas menores.
+- Os problemas podem ser resolvidos aos poucos, separadamente e pode-se reaproveitar soluções já usadas.
